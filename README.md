@@ -5,7 +5,6 @@ https://www.kaggle.com/datasets/borismarjanovic/price-volume-data-for-all-us-sto
 
 I have used raw **Deep Q learning algorithm** and a **custom Environment** along side Chainer for the neural network layers.
 Demo video here:
-
 https://drive.google.com/file/d/1YaWKXp_5Jn3sQG1PXXpybU80V6meWDup/view?usp=sharing
 
 ![image](https://github.com/avneets2103/RL-stock-predictor/assets/93909103/126d9abf-f7ae-42d9-84eb-bde9dafcae77)
